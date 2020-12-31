@@ -1,0 +1,4 @@
+﻿  VirtualFunctions.cpp
+C:\Users\ashay\Documents\0Code\C++ Code\VirtualFunctions\Constants.h(4,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ashay\Documents\0Code\C++ Code\VirtualFunctions\VirtualFunctions.cpp(96,92): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  VirtualFunctions.vcxproj -> C:\Users\ashay\Documents\0Code\C++ Code\VirtualFunctions\Debug\VirtualFunctions.exe
